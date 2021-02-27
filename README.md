@@ -19,7 +19,7 @@ Move.it  is an app for developers to rest and to exercize based on the pomodoro 
 ## ⚙️  How to Run
 
 Clone this Repo: <br />
-<code>git clone https://github.com/heymands/moveit</code> <br /><br />
+<code>git clone https://github.com/heymands/moveit.git</code> <br /><br />
 Go to the <strong>[moveit]</strong> folder open the terminal, and run: <br /> 
 <code>yarn install</code> <br /><br />
 Start the app:<br /> <code> yarn dev </code>  and enjoy the app in the port (http://localhost:3000)! <br />
